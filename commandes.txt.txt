@@ -1,0 +1,26 @@
+git log -n 2
+git log -n 4 --oneline
+
+git commit -a -m "message " //permet de faire git add . avant de commmiter  
+git add --all
+
+git diff //(différence entre changement et commits)
+
+
+git log --oneline -p index.html // je veux voir les changement du fichier index.html
+
+
+//c'est vous revenir en arrière et vous faites des changements son commit sera pas sauvegarder 
+
+// revenir pour voir etat en arrière {
+    git log --oneline (extraire cle sh de commit)
+
+    git checkout cle-sha1
+
+
+    c'est je veux revenir en last commit (git checkout master index.html)
+}
+
+
+
+//Revert
