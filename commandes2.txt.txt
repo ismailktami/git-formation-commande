@@ -17,10 +17,11 @@ git log --oneline -p index.html // je veux voir les changement du fichier index.
 
     git checkout cle-sha1
 
-
+hahahahhahahaConflict
     c'est je veux revenir en last commit (git checkout master index.html)
 }
 
 
 
 //Revert
+::::::::Conflict2
